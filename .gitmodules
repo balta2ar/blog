@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:balta2ar/balta2ar.github.com.git
+	branch = master

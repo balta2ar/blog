@@ -1,0 +1,16 @@
+baseURL = "https://balta2ar.github.io/"
+languageCode = "en-us"
+title = "Mostly Technical"
+theme = "kiss"
+
+PygmentsCodeFences = true
+PygmentsStyle = "friendly"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+fractions = false
+#extensions = []
+
+
